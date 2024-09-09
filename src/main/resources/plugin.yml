@@ -1,0 +1,4 @@
+name: CyberBuilder
+version: '${version}'
+main: com.cdscape.cyberbuilder.CyberBuilder
+api-version: '1.16'
